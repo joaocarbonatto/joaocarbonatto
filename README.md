@@ -4,9 +4,9 @@
 
 Me interesso por Machine Learning e estou sempre focado no aprendizado contínuo e na aplicação prática do conhecimento. Busco oportunidades que me permitam evoluir, colaborar com outros profissionais e desenvolver soluções inovadoras. Tenho interesse em estágios, mentorias e projetos que impulsionem meu crescimento técnico e profissional.
 <div>
-   <a href="https://github.com/joaocarbonato">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocarbonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarbonato&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/joaocarbonatto">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocarbonatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarbonatto&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
