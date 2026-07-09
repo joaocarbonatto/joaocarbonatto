@@ -4,7 +4,7 @@ student at the beginning of their journey
 
 Feel free to [get in touch](mailto:crbntcontato@gmail.com).
 
-<img align="right" alt="joaocarbonatto" height="30" width="40"
+<img align="center-left" alt="joaocarbonatto" height="30" width="40"
   src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000">
  
    
